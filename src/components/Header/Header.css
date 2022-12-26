@@ -1,0 +1,25 @@
+.top-part{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    
+}
+.brand-name{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+       
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+       
+}
+nav a:hover{
+    color: orange;
+}
